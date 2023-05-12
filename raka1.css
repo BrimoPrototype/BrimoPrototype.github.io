@@ -1,0 +1,130 @@
+
+body{
+    background-color: gray ;
+    height: 100%   ;
+    width: 100%;
+    max-width: 400px;
+}
+
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#halaman-utama{
+    background-color: white;
+    height: 100vh;
+}
+#gambar img{
+    width: 100%;
+}
+
+#login{
+    background-color: white;
+    height: 100vh;
+}
+
+#login button{
+    margin-top: 50px;
+}
+
+#login .kotak {
+    background-color: gray;
+    width: 200px;
+    height: 40px;
+    margin-top: 320px;
+    margin-left: 80px;
+    padding-left: 120px; 
+    padding-right: 120px; 
+    border-radius: 15px
+  }
+
+#login .kotak2 {
+    background-color: gray;
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 80px;
+    padding-left: 120px; 
+    padding-right: 120px; 
+    border-radius: 15px
+  }
+
+#login .kotak .h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: rgba(20, 17, 17, 0.664);
+    margin-left: -40px;
+    padding-top: 10px;
+}
+
+#login .kotak2 .h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: rgba(20, 17, 17, 0.664);
+    margin-left: -40px;
+    padding-top: 10px;
+}
+
+#login .gambar7{
+    margin-left: 0px;
+    margin-top: -18px;
+}
+#login .gambar8{
+    margin-left: 0px;
+    margin-top: -18px;
+}
+  
+
+#gambar{
+    background-color: #1280D9;
+}
+
+#text h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-top: -300px;
+    font-size: 20px;
+    color: white;
+}
+
+#text h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-top: -15px;
+    font-size: 20px;
+    color: #F9692D;
+    margin-left: 20px;
+}
+
+#menu{
+    margin-top: 300px;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+/* #menu .gambar1 img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    marg
+  } */
+  
+
+/* #menu .gambar1 img{
+    margin-top: 300px;
+    margin-left: 20px;
+} */
+
+/* #menu .gambar2 img{
+    align-items: center;
+} */
+
+
+
